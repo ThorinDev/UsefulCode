@@ -1,1 +1,8 @@
 /* Java */
+
+//infi args bukkit
+String Message = "";
+for (String argument : args) {
+	Message += argument
+  Message += " ";
+}
